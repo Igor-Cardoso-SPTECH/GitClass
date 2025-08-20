@@ -8,3 +8,7 @@ Java Develoment Kit
 Java Runtime Envyroment
 
 Java Virtual Machine -> interpreta o bytecode.  p/ cada SO
+
+
+ em java metodo e variavel -> camelCase
+         classe é PascalCase
